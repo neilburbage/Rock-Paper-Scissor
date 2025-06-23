@@ -9,7 +9,7 @@
 
 ### Quick start 
 **Clone this repo:**  
-```https://github.com/neilburbage/Rock-Paper-Scissor.git```  
+```git clone git@github.com:neilburbage/Rock-Paper-Scissor```  
 **Make sure you've added your SSH key first:**   
 ```https://docs.github.com/en/authentication/connecting-to-github-with-ssh```    
 ```cd Python-Ro-Pa-Sci```  
