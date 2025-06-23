@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor
+# Rock Paper Scissor
 
 
 ### Rock Paper Scissor is a tiny Python command line game:
